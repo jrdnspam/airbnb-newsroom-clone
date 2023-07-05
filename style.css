@@ -3,7 +3,8 @@
   background-size: cover;
   background-position: center;
 }
-.heroText {
-  align-items: center;
-  
+.aspectRatioBox2 {
+  padding-top: calc(3 / 2 * 100%); /* aspect ratio 3:2 */
+  background-size: cover;
+  background-position: center;
 }
